@@ -24,4 +24,4 @@ GameMaker Studio 2: Health Bar Tutorial:
 https://www.youtube.com/watch?v=2iRKTFxT75Y
 
 GameMaker Studio 2.3 - How to Create and Use Tile Sets + Auto Tiling:
-youtube.com/watch?v=dKCK6HPvk3M
+https://www.youtube.com/watch?v=dKCK6HPvk3M
