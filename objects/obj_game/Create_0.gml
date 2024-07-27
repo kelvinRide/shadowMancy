@@ -1,4 +1,4 @@
-displayed_text = ""
-display_instance = noone
+displayed_text = "";
+display_instance = noone;
 
-display_debug_info = false
+display_debug_info = false;

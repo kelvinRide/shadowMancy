@@ -1,3 +1,1 @@
-/// @description 
 displayed_text = ""
-
