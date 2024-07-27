@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_image_scale_cal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_image_scale_cal",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
