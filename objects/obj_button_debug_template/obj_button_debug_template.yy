@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_speech_bubble",
+  "%Name":"obj_button_debug_template",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_speech_bubble",
+  "name":"obj_button_debug_template",
   "overriddenProperties":[],
   "parent":{
     "name":"gui",
     "path":"folders/Objects/gui.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_button_template",
+    "path":"objects/obj_button_template/obj_button_template.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_button",
-    "path":"sprites/spr_button/spr_button.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

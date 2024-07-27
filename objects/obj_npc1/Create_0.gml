@@ -20,5 +20,5 @@ speech_array = [
     "Vestibulum aliquet lacus lorem, eu euismod massa eleifend",
     "Phasellus pharetra elementum dolor id maximus. Class aptent taciti ",
     "Ut gravida est non diam elementum ultricies. In hac habitasse platea dictumst.",
-    "Sed commodo turpis ex, eu viverra leo tincidunt ut. Ut faucibus, elit nec ultrices rutrum, lectus leo tincidunt velit, eu gravida turpis nisl et nisi."
+    "Sed commodo turpis ex, eu viverra leo tincidunt ut. Ut faucibus, elit nec ultrices rutrum, lectus leo tincidunt"
 ]

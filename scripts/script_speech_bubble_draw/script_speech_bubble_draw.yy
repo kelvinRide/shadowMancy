@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"script_image_scale_cal",
+  "%Name":"script_speech_bubble_draw",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"script_image_scale_cal",
+  "name":"script_speech_bubble_draw",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

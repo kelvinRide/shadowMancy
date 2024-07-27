@@ -14,8 +14,8 @@
     "path":"folders/Objects/gui.yy",
   },
   "parentObjectId":{
-    "name":"obj_button_template",
-    "path":"objects/obj_button_template/obj_button_template.yy",
+    "name":"obj_button_debug_template",
+    "path":"objects/obj_button_debug_template/obj_button_debug_template.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

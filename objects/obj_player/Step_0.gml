@@ -65,9 +65,7 @@ y = clamp(y, 0, room_height)
 //----------------------------------------------------------------//
 //attack
 //----------------------------------------------------------------//
-var _pressed_button = instance_exists(obj_button_template)? obj_button_template.hovering: false
-
-if _left_click && !_pressed_button {
-	var _sword = instance_create_layer(x + horisontal_move * 3 , y + 10,"Instances", obj_sword_attack)
-	_sword.image_xscale = image_xscale * - 1
+if _left_click && can_attack {
+	var _sword = instance_create_layer(x + horisontal_move * 3 , y + 10,"Instances", obj_sword_attack);
+	_sword.image_xscale = image_xscale * - 1;
 }

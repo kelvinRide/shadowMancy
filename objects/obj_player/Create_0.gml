@@ -8,3 +8,7 @@ jump_height = 90
 vertical_speed = 0
 room_gravity = 0.1
 can_jump = 0
+
+
+//attack states
+can_attack = true

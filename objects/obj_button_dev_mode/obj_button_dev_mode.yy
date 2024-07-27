@@ -1,21 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_debug_increase",
+  "%Name":"obj_button_dev_mode",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_debug_increase",
+  "name":"obj_button_dev_mode",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_template","path":"objects/obj_button_template/obj_button_template.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_template/obj_button_template.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Increase\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_template","path":"objects/obj_button_template/obj_button_template.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_template/obj_button_template.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Dev Mode\"",},
   ],
   "parent":{
     "name":"gui",
     "path":"folders/Objects/gui.yy",
   },
   "parentObjectId":{
-    "name":"obj_button_debug_template",
-    "path":"objects/obj_button_debug_template/obj_button_debug_template.yy",
+    "name":"obj_button_template",
+    "path":"objects/obj_button_template/obj_button_template.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
