@@ -28,3 +28,6 @@ https://www.youtube.com/watch?v=dKCK6HPvk3M
 
 ## Game Maker Studio 2 | Advanced - Npc speech bubble
 https://www.youtube.com/watch?v=XgiRRAwZCdY
+
+## How to make a Camera for any GameMaker game in 4 minutes
+https://www.youtube.com/watch?v=2Jlwkletpjk
