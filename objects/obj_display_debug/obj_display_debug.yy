@@ -9,8 +9,8 @@
   "name":"obj_display_debug",
   "overriddenProperties":[],
   "parent":{
-    "name":"gui",
-    "path":"folders/Objects/gui.yy",
+    "name":"debug",
+    "path":"folders/Objects/gui/debug.yy",
   },
   "parentObjectId":null,
   "persistent":false,

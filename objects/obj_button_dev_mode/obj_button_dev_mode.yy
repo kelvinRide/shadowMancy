@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button_template","path":"objects/obj_button_template/obj_button_template.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_template/obj_button_template.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Dev Mode\"",},
   ],
   "parent":{
-    "name":"gui",
-    "path":"folders/Objects/gui.yy",
+    "name":"debug",
+    "path":"folders/Objects/gui/debug.yy",
   },
   "parentObjectId":{
     "name":"obj_button_template",

@@ -1,24 +1,21 @@
-speach_bubble_id = noone;
+pressing_e = false;
 
-cooldown_time = 30;
+touching_player = false;
+
+cooldown_time = 180;
 
 cooldown_timer = cooldown_time;
 
+speech_bubble = noone;
+
 speech_index = 0;
 
-bubble_x_correction = 0;
-
 speech_array = [
-    "Hi I am Larry",
-    "boom chaka laka",
-    "Contrary to popular belief, Lorem Ipsum",
-    "Donec iaculis, lorem et ultricies viverra",
-    "4auris hendrerit ipsum ut ante suscipit, non",
-    "5auris hendrerit ipsum ut ante suscipit, nne 12",
-    "6auris hendrerit ipsum ut ante suscipit, nne 123",
-    "Suspendisse dictum ipsum eget est semper luctus.",
-    "Vestibulum aliquet lacus lorem, eu euismod massa eleifend",
-    "Phasellus pharetra elementum dolor id maximus. Class aptent taciti ",
-    "Ut gravida est non diam elementum ultricies. In hac habitasse platea dictumst.",
-    "Sed commodo turpis ex, eu viverra leo tincidunt ut. Ut faucibus, elit nec ultrices rutrum, lectus leo tincidunt"
+    "Hi there, I am mister npc1.",
+    "It's good to see someone who has not fallen yet.",
+    "It is rare these days.",
+    "The whole world is but a shadow of what is used to be.",
+    "So, Uhh if you wouldn't mind there are a few corrupted ones up ahead.",
+    "My house happens to be in the same direction and I need some supplies.",
+    "You will of course be rewarde hansomly"
 ]

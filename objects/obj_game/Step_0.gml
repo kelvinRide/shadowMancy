@@ -1,14 +1,14 @@
 /// @description game display step
 if display_debug_info {
-	var _speech_image_scale = instance_exists(obj_speech_bubble)? string(obj_speech_bubble.image_xscale):"none";
-	var _speech_text_lines = instance_exists(obj_speech_bubble)? string(obj_speech_bubble.image_yscale):"none";
-	var _speech_array_index =  instance_exists(obj_npc1)?string(obj_npc1.speech_index):"none";
+	var _pressing_e =  instance_exists(obj_npc1)?string(obj_npc1.pressing_e):"none";
+	var _touching_player =  instance_exists(obj_npc1)?string(obj_npc1.touching_player):"none";
+	var _cooldown_timer =  instance_exists(obj_npc1)?string(obj_npc1.cooldown_timer):"none";
 
-
-	var _new_display_text = "bubble_image_scale: " + _speech_image_scale
-	+ "\n speech_text_lines:" + _speech_text_lines
-	+ "\n speech_array_index:" + _speech_array_index
-	+ "\n display_debug_info:" + string(display_debug_info)
+	var _new_display_text = 
+	  "display_debug_info: " + string(display_debug_info)
+	+ "\n _pressing_e: " + _pressing_e
+	+ "\n _touching_player: " + _touching_player
+	+ "\n _cooldown_timer: " + _cooldown_timer
 	;
 
 	if (!instance_exists(obj_display_debug)) {

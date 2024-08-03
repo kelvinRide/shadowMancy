@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_floor_dirt",
-    "path":"sprites/spr_floor_dirt/spr_floor_dirt.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

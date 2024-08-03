@@ -33,7 +33,7 @@ function script_draw_dynamic_speech_bubble(_text) {
 function script_draw_static_speech_bubble(_text) {
 	//middle of the room and at y 700
 	x = room_width/2;
-	y = 735;
+	y = room_height/2;
 	
 	draw_self();
 
@@ -46,7 +46,6 @@ function script_draw_static_speech_bubble(_text) {
 	draw_set_color(c_white);
 
 	draw_text_ext(x, y, _text,20,400);
-	//image_yscale = 
+
 	image_xscale = 6.5
-	
 }

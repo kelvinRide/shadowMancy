@@ -8,8 +8,8 @@
   "name":"obj_button_debug_template",
   "overriddenProperties":[],
   "parent":{
-    "name":"gui",
-    "path":"folders/Objects/gui.yy",
+    "name":"debug",
+    "path":"folders/Objects/gui/debug.yy",
   },
   "parentObjectId":{
     "name":"obj_button_template",
